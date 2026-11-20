@@ -1,0 +1,7 @@
+Category,Algorithm,Slope,R_squared,P_value
+Hashing,SHA-256,2.53e-06,0.9989,1.5e-05
+Hashing,SHA3-256,3e-06,0.9999,0.0
+Hashing,BLAKE2b,1.44e-06,0.9997,2e-06
+Symmetric,AES-256-GCM,1.39e-06,0.9997,2e-06
+Symmetric,ChaCha20,5.9e-07,0.999,1.3e-05
+Symmetric,3DES,0.00015308,0.9998,2e-06

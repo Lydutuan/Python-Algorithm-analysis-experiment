@@ -1,0 +1,20 @@
+[project]
+name = "decrypt-project"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+authors = [
+    { name = "LyDuTuan", email = "Lydutuan1092@gmail.com" }
+]
+requires-python = ">=3.14"
+dependencies = [
+    "fastapi>=0.162.0",
+    "pydantic>=2.14.2",
+]
+
+[project.scripts]
+decrypt-project = "decrypt_project:main"
+
+[build-system]
+requires = ["uv_build>=0.13.6,<0.14.0"]
+build-backend = "uv_build"

@@ -1,0 +1,7 @@
+Category,Algorithm,mean,std,min,max
+Hashing,BLAKE2b,516.16,288.46,3.34,668.71
+Hashing,SHA-256,309.16,172.24,1.15,392.51
+Hashing,SHA3-256,256.26,141.57,3.13,324.44
+Symmetric,3DES,5.63,1.77,2.48,6.56
+Symmetric,AES-256-GCM,482.87,289.82,9.68,700.55
+Symmetric,ChaCha20,1181.42,687.04,65.98,1668.11
